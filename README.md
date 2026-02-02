@@ -1,25 +1,48 @@
-🚀 IT Support → Transition to Backend Development (Java / Spring Boot)
+# 🚀 IT Support → Backend Development Transition
 
-Current Role: IT Support Specialist (8+ years multilingual)
-Focus: Building backend systems with Java & Spring Boot as personal projects
+**Current Role:** IT Support Specialist (8+ years multilingual)  
+**Focus:** Building backend systems with Java & Spring Boot as personal projects
 
-What I do:
+---
+
+## 💡 What I Do
+
 Hands-on learning & implementation of REST APIs, databases, containers and deployments — while moving toward backend roles.
-This space shows real projects and deployments, not just tutorials.
 
-Live demos:
-• https://techthordev.com.br     → Main full-stack app (Spring Boot + Angular)
-• https://docs.techthordev.com.br → Technical documentation
-• https://leetcode.techthordev.com.br → LeetCode frontend
+**This space shows real projects and deployments, not just tutorials.**
 
-Relocating to Italy (Q2 2026) – open to remote EU opportunities
+---
 
-Background: 8+ years IT Support & Help Desk → now focusing on Java/Spring Boot, Angular, PostgreSQL, Docker/Podman, cloud deployments.
+## 🌐 Live Demos
 
-Connect:
-• 🌍 https://techthordev.com.br
-• 💻 github.com/techthordev
-• 💼 linkedin.com/in/thorstenfey
-• 📧 thorsten.fey@outlook.com
+- **https://techthordev.com.br** → Main full-stack app (Spring Boot + Angular)  
+- **https://docs.techthordev.com.br** → Technical documentation  
+- **https://leetcode.techthordev.com.br** → LeetCode frontend
 
-Feedback welcome. Stars appreciated.
+---
+
+## 🎯 Relocating to Italy (Q2 2026)
+
+Open to remote EU opportunities in Backend Development.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:** Java · Spring Boot · PostgreSQL · REST APIs  
+**Frontend:** Angular · TypeScript  
+**DevOps:** Docker/Podman · GitHub Actions · Cloud Run  
+**Learning from:** Chad Darby, Eric Roby + real-world deployments
+
+---
+
+## 📫 Connect
+
+🌍 https://techthordev.com.br  
+💻 github.com/techthordev  
+💼 linkedin.com/in/thorstenfey  
+📧 thorsten.fey@outlook.com
+
+---
+
+**Feedback welcome. Stars appreciated.** ⭐
