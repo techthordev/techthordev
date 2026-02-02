@@ -15,9 +15,9 @@ Hands-on learning & implementation of REST APIs, databases, containers and deplo
 
 ## 🌐 Live Demos
 
-- **https://techthordev.com.br** → Main full-stack app (Spring Boot + Angular)  
+- **https://techthordev.com.br** → Main app (Angular)  
 - **https://docs.techthordev.com.br** → Technical documentation  
-- **https://leetcode.techthordev.com.br** → LeetCode frontend
+- **https://leetcode.techthordev.com.br** → LeetCode (Spring Boot + Angular frontend)
 
 ---
 
