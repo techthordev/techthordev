@@ -41,7 +41,7 @@ Open to remote EU opportunities in Backend Development.
 🌍 https://techthordev.com.br  
 💻 github.com/techthordev  
 💼 linkedin.com/in/thorstenfey  
-📧 thorsten.fey@outlook.com
+📧 contact@techthordev.com.br    
 
 ---
 
