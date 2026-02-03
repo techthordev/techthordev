@@ -39,8 +39,8 @@ Open to remote EU opportunities in Backend Development.
 ## 📫 Connect
 
 🌍 https://techthordev.com.br  
-💻 github.com/techthordev  
-💼 linkedin.com/in/thorstenfey  
+💻 https://github.com/techthordev  
+💼 https://linkedin.com/in/thorstenfey  
 📧 contact@techthordev.com.br    
 
 ---
